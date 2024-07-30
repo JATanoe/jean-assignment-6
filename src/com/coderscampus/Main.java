@@ -1,10 +1,15 @@
 package com.coderscampus;
 
+import java.io.IOException;
+import com.coderscampus.report.Report;
+
 public class Main {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws IOException {
+		
+		Report report = new Report();
+		report.show();
 
 	}
-
+	
 }
