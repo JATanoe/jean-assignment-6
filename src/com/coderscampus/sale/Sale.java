@@ -1,4 +1,4 @@
-package com.coderscampus.report;
+package com.coderscampus.sale;
 
 import java.time.YearMonth;
 

@@ -1,7 +1,8 @@
 package com.coderscampus;
 
 import java.io.IOException;
-import com.coderscampus.report.Report;
+
+import com.coderscampus.sale.Report;
 
 public class Main {
 
